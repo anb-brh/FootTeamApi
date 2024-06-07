@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * Entity Class to represent a team
  */
+@Entity
 public class Team {
 
     @Id
